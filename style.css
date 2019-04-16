@@ -1,0 +1,80 @@
+marquee{
+	background-color: green;
+	color:white;
+	font-family: Arial;
+	font-weight: 900;
+}
+#e{
+	background-color: orange;
+	border: 4px solid red;
+	border-radius:5px;
+	margin-bottom:4px ;
+	text-align: center;
+	transition:background-color 3s;
+}
+#e:hover{
+background-color: green;
+color:white;
+border: 4px solid green;
+}
+input{
+	background-color:#F08585 ;
+	border-radius: 6px;
+	box-shadow:2px 2px 2px 2px red;
+	transition: background-color , box-shadow 3s;
+	color: black;
+}
+input:hover{
+	color:black;
+	background-color:#91F090;
+	box-shadow:2px 2px 2px 2px green;
+}
+button{
+	border-radius:80px;
+	background-color:white;
+	transition:background-color 4s;
+	align:center;
+	margin-left:70px ;
+	box-shadow: 1px 1px 1px 1px red;
+	font-family: Arial;
+	transition: box-shadow	3s ;
+}
+button:hover{
+	background-color: green;
+	color:white;
+	box-shadow: 1px 1px 1px 1px green ;
+}
+div{
+	border:4px solid red;
+	background-color: orange;
+	padding: 10px;
+	margin-left: 500px;
+	margin-right: 650px;
+	border-radius:7px;
+	transition: border 3s ;
+	transition: background-color 4s ;
+}
+div:hover{
+	border:4px solid green;
+	background-color:green;
+}
+body{
+background-color: #47E182;
+transition: background-color 3s;
+}
+#t{
+	font-family: Arial;
+	border: 2px solid orange;
+	transition: border 3s;
+	margin-left: 47px;
+	margin-right: 47px;
+	border-radius:9px;
+	background-color: orange;
+}
+#t:hover{
+	border: 2px solid green;
+	background-color: green;
+}
+.d{
+	background-color: #fff; 
+}
