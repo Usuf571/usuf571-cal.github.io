@@ -1,1 +1,1 @@
-# usufcal.com
+# usufcal.github.io
