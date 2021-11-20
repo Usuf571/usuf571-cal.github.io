@@ -1,1 +1,1 @@
-# usufcal.github.io
+# usuf571-cal.github.io
